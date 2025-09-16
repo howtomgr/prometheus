@@ -1,0 +1,70 @@
+{
+  "category": "monitoring",
+  "created_date": "2025-09-15T22:48:58.761411",
+  "default_ports": [
+    443,
+    3000,
+    5001,
+    8080,
+    8086,
+    9009,
+    9090,
+    9093,
+    9094,
+    9100,
+    9201,
+    19291
+  ],
+  "dependencies": [],
+  "description": "Prometheus is a free and open-source systems monitoring and alerting toolkit originally built at SoundCloud. Now a standalone project and part of the Cloud Native Computing Foundation, it features a multi-dimensional data model with time series data identified by metric name and key/value pairs, PromQL query language, and powerful alerting capabilities. It serves as a FOSS alternative to commercial monitoring solutions like Datadog, New Relic, or Splunk, offering enterprise-grade monitoring and alerting without licensing costs.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/monitoring/prometheus",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/monitoring/prometheus",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.761430",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "prometheus",
+  "repository_url": "https://github.com/howtomgr/prometheus",
+  "spec_version": "2.0",
+  "subcategory": "monitoring",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "monitoring",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "Prometheus Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/monitoring/prometheus"
+}
